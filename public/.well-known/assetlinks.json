@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rntshowcase",
+      "sha256_cert_fingerprints": [
+        "52:14:B6:77:97:9C:F3:6D:72:B4:27:B9:56:1F:40:A4:F7:2A:07:AE:2F:71:EE:2F:88:EE:D7:7D:A8:CF:BE:25"
+      ]
+    }
+  }
+]
